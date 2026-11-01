@@ -9,4 +9,4 @@ Final-year CSE student at BMS College of Engineering, Bengaluru (graduating 2027
 - Learning: Building with the Claude API (Anthropic), Agentic AI (NVIDIA × Nebius)
 - Next for AR3: a held-out test set and a webhook API
 
-[LinkedIn]([your LinkedIn URL]) · [Email](mailto:[your email])
+[LinkedIn](https://www.linkedin.com/in/punarnavaviswanath4) · [Email](mailto:punarnava4@gmail.com)
